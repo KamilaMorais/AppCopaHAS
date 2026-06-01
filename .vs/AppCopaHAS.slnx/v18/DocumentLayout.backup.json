@@ -1,0 +1,174 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\3AI - KevinKamila\\PAM3\\Aula15 - VS\\AppCopaHAS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AFECDDB5-37D1-4060-91D1-6E5921975A50}|AppCopaHAS\\AppCopaHAS.csproj|d:\\3ai - kevinkamila\\pam3\\aula15 - vs\\appcopahas\\appcopahas\\views\\jogos\\cadastrojogo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AFECDDB5-37D1-4060-91D1-6E5921975A50}|AppCopaHAS\\AppCopaHAS.csproj|solutionrelative:appcopahas\\views\\jogos\\cadastrojogo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFECDDB5-37D1-4060-91D1-6E5921975A50}|AppCopaHAS\\AppCopaHAS.csproj|d:\\3ai - kevinkamila\\pam3\\aula15 - vs\\appcopahas\\appcopahas\\views\\jogos\\cadastrojogo.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{AFECDDB5-37D1-4060-91D1-6E5921975A50}|AppCopaHAS\\AppCopaHAS.csproj|solutionrelative:appcopahas\\views\\jogos\\cadastrojogo.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\etechas\\AppData\\Local\\Temp\\.vsdbgsrc\\234929a22679a64f103745addd1c9620b875734f\\AppShell.xaml.sg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFECDDB5-37D1-4060-91D1-6E5921975A50}|AppCopaHAS\\AppCopaHAS.csproj|d:\\3ai - kevinkamila\\pam3\\aula15 - vs\\appcopahas\\appcopahas\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFECDDB5-37D1-4060-91D1-6E5921975A50}|AppCopaHAS\\AppCopaHAS.csproj|solutionrelative:appcopahas\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFECDDB5-37D1-4060-91D1-6E5921975A50}|AppCopaHAS\\AppCopaHAS.csproj|d:\\3ai - kevinkamila\\pam3\\aula15 - vs\\appcopahas\\appcopahas\\viewmodels\\jogos\\jogoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFECDDB5-37D1-4060-91D1-6E5921975A50}|AppCopaHAS\\AppCopaHAS.csproj|solutionrelative:appcopahas\\viewmodels\\jogos\\jogoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFECDDB5-37D1-4060-91D1-6E5921975A50}|AppCopaHAS\\AppCopaHAS.csproj|d:\\3ai - kevinkamila\\pam3\\aula15 - vs\\appcopahas\\appcopahas\\services\\jogoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFECDDB5-37D1-4060-91D1-6E5921975A50}|AppCopaHAS\\AppCopaHAS.csproj|solutionrelative:appcopahas\\services\\jogoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFECDDB5-37D1-4060-91D1-6E5921975A50}|AppCopaHAS\\AppCopaHAS.csproj|d:\\3ai - kevinkamila\\pam3\\aula15 - vs\\appcopahas\\appcopahas\\viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFECDDB5-37D1-4060-91D1-6E5921975A50}|AppCopaHAS\\AppCopaHAS.csproj|solutionrelative:appcopahas\\viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFECDDB5-37D1-4060-91D1-6E5921975A50}|AppCopaHAS\\AppCopaHAS.csproj|d:\\3ai - kevinkamila\\pam3\\aula15 - vs\\appcopahas\\appcopahas\\services\\selecaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFECDDB5-37D1-4060-91D1-6E5921975A50}|AppCopaHAS\\AppCopaHAS.csproj|solutionrelative:appcopahas\\services\\selecaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFECDDB5-37D1-4060-91D1-6E5921975A50}|AppCopaHAS\\AppCopaHAS.csproj|d:\\3ai - kevinkamila\\pam3\\aula15 - vs\\appcopahas\\appcopahas\\services\\estadioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFECDDB5-37D1-4060-91D1-6E5921975A50}|AppCopaHAS\\AppCopaHAS.csproj|solutionrelative:appcopahas\\services\\estadioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppShell.xaml.sg.cs",
+              "DocumentMoniker": "C:\\Users\\etechas\\AppData\\Local\\Temp\\.vsdbgsrc\\234929a22679a64f103745addd1c9620b875734f\\AppShell.xaml.sg.cs",
+              "ToolTip": "C:\\Users\\etechas\\AppData\\Local\\Temp\\.vsdbgsrc\\234929a22679a64f103745addd1c9620b875734f\\AppShell.xaml.sg.cs [Read Only]",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwBQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T12:18:20.574Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CadastroJogo.xaml.cs",
+              "DocumentMoniker": "D:\\3AI - KevinKamila\\PAM3\\Aula15 - VS\\AppCopaHAS\\AppCopaHAS\\Views\\Jogos\\CadastroJogo.xaml.cs",
+              "RelativeDocumentMoniker": "AppCopaHAS\\Views\\Jogos\\CadastroJogo.xaml.cs",
+              "ToolTip": "D:\\3AI - KevinKamila\\PAM3\\Aula15 - VS\\AppCopaHAS\\AppCopaHAS\\Views\\Jogos\\CadastroJogo.xaml.cs",
+              "RelativeToolTip": "AppCopaHAS\\Views\\Jogos\\CadastroJogo.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T12:14:34.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CadastroJogo.xaml",
+              "DocumentMoniker": "D:\\3AI - KevinKamila\\PAM3\\Aula15 - VS\\AppCopaHAS\\AppCopaHAS\\Views\\Jogos\\CadastroJogo.xaml",
+              "RelativeDocumentMoniker": "AppCopaHAS\\Views\\Jogos\\CadastroJogo.xaml",
+              "ToolTip": "D:\\3AI - KevinKamila\\PAM3\\Aula15 - VS\\AppCopaHAS\\AppCopaHAS\\Views\\Jogos\\CadastroJogo.xaml",
+              "RelativeToolTip": "AppCopaHAS\\Views\\Jogos\\CadastroJogo.xaml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAUwBoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-01T12:14:16.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainApplication.cs",
+              "DocumentMoniker": "D:\\3AI - KevinKamila\\PAM3\\Aula15 - VS\\AppCopaHAS\\AppCopaHAS\\Platforms\\Android\\MainApplication.cs",
+              "RelativeDocumentMoniker": "AppCopaHAS\\Platforms\\Android\\MainApplication.cs",
+              "ToolTip": "D:\\3AI - KevinKamila\\PAM3\\Aula15 - VS\\AppCopaHAS\\AppCopaHAS\\Platforms\\Android\\MainApplication.cs",
+              "RelativeToolTip": "AppCopaHAS\\Platforms\\Android\\MainApplication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T12:06:23.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JogoViewModel.cs",
+              "DocumentMoniker": "D:\\3AI - KevinKamila\\PAM3\\Aula15 - VS\\AppCopaHAS\\AppCopaHAS\\ViewModels\\Jogos\\JogoViewModel.cs",
+              "RelativeDocumentMoniker": "AppCopaHAS\\ViewModels\\Jogos\\JogoViewModel.cs",
+              "ToolTip": "D:\\3AI - KevinKamila\\PAM3\\Aula15 - VS\\AppCopaHAS\\AppCopaHAS\\ViewModels\\Jogos\\JogoViewModel.cs",
+              "RelativeToolTip": "AppCopaHAS\\ViewModels\\Jogos\\JogoViewModel.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAxwB0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T11:38:19.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BaseViewModel.cs",
+              "DocumentMoniker": "D:\\3AI - KevinKamila\\PAM3\\Aula15 - VS\\AppCopaHAS\\AppCopaHAS\\ViewModels\\BaseViewModel.cs",
+              "RelativeDocumentMoniker": "AppCopaHAS\\ViewModels\\BaseViewModel.cs",
+              "ToolTip": "D:\\3AI - KevinKamila\\PAM3\\Aula15 - VS\\AppCopaHAS\\AppCopaHAS\\ViewModels\\BaseViewModel.cs",
+              "RelativeToolTip": "AppCopaHAS\\ViewModels\\BaseViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T11:35:38.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JogoService.cs",
+              "DocumentMoniker": "D:\\3AI - KevinKamila\\PAM3\\Aula15 - VS\\AppCopaHAS\\AppCopaHAS\\Services\\JogoService.cs",
+              "RelativeDocumentMoniker": "AppCopaHAS\\Services\\JogoService.cs",
+              "ToolTip": "D:\\3AI - KevinKamila\\PAM3\\Aula15 - VS\\AppCopaHAS\\AppCopaHAS\\Services\\JogoService.cs",
+              "RelativeToolTip": "AppCopaHAS\\Services\\JogoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T11:31:24.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EstadioService.cs",
+              "DocumentMoniker": "D:\\3AI - KevinKamila\\PAM3\\Aula15 - VS\\AppCopaHAS\\AppCopaHAS\\Services\\EstadioService.cs",
+              "RelativeDocumentMoniker": "AppCopaHAS\\Services\\EstadioService.cs",
+              "ToolTip": "D:\\3AI - KevinKamila\\PAM3\\Aula15 - VS\\AppCopaHAS\\AppCopaHAS\\Services\\EstadioService.cs",
+              "RelativeToolTip": "AppCopaHAS\\Services\\EstadioService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T11:29:37.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SelecaoService.cs",
+              "DocumentMoniker": "D:\\3AI - KevinKamila\\PAM3\\Aula15 - VS\\AppCopaHAS\\AppCopaHAS\\Services\\SelecaoService.cs",
+              "RelativeDocumentMoniker": "AppCopaHAS\\Services\\SelecaoService.cs",
+              "ToolTip": "D:\\3AI - KevinKamila\\PAM3\\Aula15 - VS\\AppCopaHAS\\AppCopaHAS\\Services\\SelecaoService.cs",
+              "RelativeToolTip": "AppCopaHAS\\Services\\SelecaoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T11:29:29.572Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
