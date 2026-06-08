@@ -1,0 +1,9 @@
+# Arquivos ocultos do Visual Studio
+.vs/
+
+# Pastas de comilação do MAUI
+[Bb]in/
+[Oo]bj/
+
+# Arquivos de configuraçao de usuário local
+*.user

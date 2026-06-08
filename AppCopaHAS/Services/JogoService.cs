@@ -1,4 +1,5 @@
 ﻿using AppCopaHAS.Models;
+using AppCopaHAS.Models.DTOs;
 using System.Collections.ObjectModel;
 using System.Threading.Tasks;
 
@@ -25,5 +26,20 @@ namespace AppCopaHAS.Services
 
             return lista;
         }
+
+        public async Task<ObservableCollection<JogoDTO>> GetJogosDTOAsync()
+        {
+            string urlComplementar = string.Format("{0}", "/ObterTabela");
+            ObservableCollection<JogoDTO> lista = await _request.GetAsync<ObservableCollection<JogoDTO>>(_apiUrlBase + urlComplementar, string.Empty);
+            return lista;
+        }
+
+        public async Task<Jogo> PostJogoAsync(Jogo j)
+        {
+            Jogo jogoInserido = await _request.PostAsync<Jogo>(_apiUrlBase, j, string.Empty);
+            return jogoInserido;
+        }
+
+
     }
 }

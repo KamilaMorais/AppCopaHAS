@@ -15,4 +15,7 @@
     <ShellContent Title="Jogos" Route="jogos"
                   ContentTemplate="{DataTemplate jogos:CadastroJogo}"/>
 
+    <ShellContent Title="Tabela" Route="tabela" 
+                  ContentTemplate="{DataTemplate jogos:TabelaView}"/>
+
 </Shell>
