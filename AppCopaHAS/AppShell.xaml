@@ -5,6 +5,7 @@
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
     xmlns:local="clr-namespace:AppCopaHAS"
     xmlns:jogos="clr-namespace:AppCopaHAS.Views.Jogos"
+    xmlns:jogadores="clr-namespace:AppCopaHAS.Views.Jogadores" 
     Title="AppCopaHAS">
 
     <ShellContent
@@ -17,5 +18,8 @@
 
     <ShellContent Title="Tabela" Route="tabela" 
                   ContentTemplate="{DataTemplate jogos:TabelaView}"/>
+
+    <ShellContent Title="Jogadores" Route="jogadores"
+              ContentTemplate="{DataTemplate AlbumView}" />
 
 </Shell>
