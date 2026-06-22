@@ -36,5 +36,12 @@ namespace AppCopaHAS.Services
 
             return jogador;
         }
+
+        public async Task<Jogador> PostJogadorAsync(Jogador j)
+        {
+            int id = await _request.PostReturnIntAsync<Jogador>(_apiUrlBase, j, string.Empty);
+            j.Id = id;
+            return j;
+        }
     }
 }
